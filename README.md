@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonu0-7
-- 👀 I’m interested in Software Development
+- 👀 I’m a Software Developer.
 - 🌱 I’m currently learning NestJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/sonu-kumar01
